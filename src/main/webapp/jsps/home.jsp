@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. - Practice Update by Mohana Manchala 22May21  GitHub Webhook Prac updtd 25May21 and Done on 26th May and committed</h1>
 <h1 align="center">Welcome to Mithun Software Solutions. - Jacoco Plugin test 25May21 And a many tests done on 26May21, Git Webhook retested 26May</h1>
-<h1 align="center">completed scripted pipeline 26may; Completed Declarative pipeline 28may........</h1>
+<h1 align="center">completed scripted pipeline 26may; Completed Declarative pipeline 28may........started master slave , multipipeline and backups 31May</h1>
 <h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps with AWS on  5th June  2021  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
