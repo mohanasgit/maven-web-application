@@ -1,6 +1,8 @@
 node{
     def mavenHome = tool name: "maven 3.8.1"
+    /*
     properties([pipelineTriggers([pollSCM('* * * * *')])])
+    */
     stage('CheckoutCode'){
         git branch: 'development', credentialsId: '7cef8dd5-b079-4ba5-b1a3-b3578a3b01a8', url: 'https://github.com/mohanasgit/maven-web-application.git'
     }
