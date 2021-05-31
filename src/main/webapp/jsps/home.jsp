@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Mithun Software Solutions. - Practice Update by Mohana Manchala 22May21  GitHub Webhook Prac updtd 25May21 and Done on 26th May and committed</h1>
 <h1 align="center">Welcome to Mithun Software Solutions. - Jacoco Plugin test 25May21 And a many tests done on 26May21, Git Webhook retested 26May</h1>
 <h1 align="center">completed scripted pipeline 26may; Completed Declarative pipeline 28may........started master slave , multipipeline and backups 31May</h1>
-<h1 align="center"> Triggered declarative pipeline through SCM 31May </h1>
+<h1 align="center"> Triggered declarative pipeline through SCM 31May , starting multibranch pipeline 31 May </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
