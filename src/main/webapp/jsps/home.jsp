@@ -13,6 +13,7 @@
 <h1 align="center">Welcome to Mithun Software Solutions. - Jacoco Plugin test 25May21 And a many tests done on 26May21, Git Webhook retested 26May</h1>
 <h1 align="center">completed scripted pipeline 26may; Completed Declarative pipeline 28may........started master slave , multipipeline and backups 31May</h1>
 <h1 align="center"> Triggered declarative pipeline through SCM 31May , starting multibranch pipeline 31 May -- Done! - 9.18 pm IST...updating..start on 6th June 21 Done!! </h1>
+<h1 align="center"> Started Parameter passing 6th June 21 </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
